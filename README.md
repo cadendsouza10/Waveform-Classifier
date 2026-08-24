@@ -173,9 +173,9 @@ The long-term goal is to develop an **AI-assisted oscilloscope analysis system**
 - RMS Voltage
 - Noise
 
+This project explores how **machine learning, computer vision, and electrical engineering** can be combined to automate traditional waveform analysis.
+
 ## Author
 
 Caden D'Souza
 - Harmonic Distortion
-
-This project explores how **machine learning, computer vision, and electrical engineering** can be combined to automate traditional waveform analysis.
